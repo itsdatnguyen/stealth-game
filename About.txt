@@ -1,0 +1,12 @@
+Stealth Game is a game created by Dat Nguyen in 2017. It depicts a cat and mouse type of stealth gameplay where you have many tools to outmaneuver your enemy. The goal 
+of the included map is to hack and steal data from a computer. You will have to stay within the location in order to succeed hacking. Enemies will spawn in when you are
+located.
+
+
+Controls:
+WASD to move
+C to crouch
+Left Shift to run
+1 to throw a smoke bomb
+f to throw a rock
+Right Click to teleport to your orb.
